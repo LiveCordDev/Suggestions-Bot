@@ -1,0 +1,14 @@
+{
+  "name": "suggestion-bot",
+  "version": "1.0.0",
+  "description": "Suggestion Bot by LiveCord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongodb": "^6.3.0"
+  }
+}
